@@ -7,7 +7,7 @@
  */
 function connectDb(): mysqli
 {
-    $host = '';
+    $host = 'a';
     $db   = '';
     $user = '';
     $pass = '';
